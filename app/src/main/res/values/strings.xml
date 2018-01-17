@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Polyphasic Sleep</string>
+    <string name="nap">Take a Nap</string>
+    <string name="about">About</string>
+    <string name="settings">Settings</string>
+    <string name="schedule">Schedule</string>
+
+    <string name="about_text">
+        This app exists. WOW.
+    </string>
+    <string name="notifications_switch">Notifications</string>
+</resources>
