@@ -55,6 +55,9 @@ dependencies {
     compile "org.jetbrains.anko:anko-design:$anko_version"
     compile "org.jetbrains.anko:anko-design-coroutines:$anko_version"
 
+    // Anko SQLite
+    compile "org.jetbrains.anko:anko-sqlite:$anko_version"
+
     // Implementation
     implementation fileTree(dir: 'libs', include: ['*.jar'])
     implementation"org.jetbrains.kotlin:kotlin-stdlib-jre7:$kotlin_version"
